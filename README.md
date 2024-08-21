@@ -2,17 +2,6 @@ Python Coding Solutions
 
 Welcome to the ** Python Coding ** challenge! This repository contains the code and resources I've worked on during my 100-day journey to improve my Python programming skills.
 
-## Table of Contents
-
-- [About](#about)
-- [Goals](#goals)
-- [Structure](#structure)
-- [Progress](#progress)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -85,8 +74,6 @@ Throughout the challenge, I've used various resources, including:
 
 - [Python Documentation](https://docs.python.org/3/)
 - [Real Python](https://realpython.com/)
-- [LeetCode](https://leetcode.com/) for coding challenges
-- [HackerRank](https://www.hackerrank.com/) for coding challenges
 
 ## Contributing
 
