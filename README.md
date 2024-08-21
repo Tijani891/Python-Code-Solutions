@@ -1,7 +1,3 @@
-Creating a README file for a "100 Days of Python Coding" project can help outline the purpose, structure, and progress of the project. Here's a template you can use:
-
----
-
 # 100 Days of Python Coding
 
 Welcome to the **100 Days of Python Coding** challenge! This repository contains the code and resources I've worked on during my 100-day journey to improve my Python programming skills.
