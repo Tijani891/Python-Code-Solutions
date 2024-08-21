@@ -1,6 +1,6 @@
-# 100 Days of Python Coding
+Python Coding Solutions
 
-Welcome to the **100 Days of Python Coding** challenge! This repository contains the code and resources I've worked on during my 100-day journey to improve my Python programming skills.
+Welcome to the ** Python Coding ** challenge! This repository contains the code and resources I've worked on during my 100-day journey to improve my Python programming skills.
 
 ## Table of Contents
 
