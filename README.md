@@ -37,13 +37,10 @@ The repository is organized into directories for each day, where each directory 
 ```
 .
 ├── Day 01
-│   ├── README.md
 │   └── main.py
 ├── Day 02
-│   ├── README.md
 │   └── main.py
 ├── Day 03
-│   ├── README.md
 │   └── main.py
 └── ...
 ```
