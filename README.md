@@ -39,13 +39,13 @@ The repository is organized into directories for each day, where each directory 
 
 Here is a summary of the progress so far:
 
-| Day | Topic/Challenge                  | Status  |
-|-----|----------------------------------|---------|
-| 1   | Introduction & Basic Syntax      | ✅ Done |
-| 2   | Data Types & Variables           | ✅ Done |
-| 3   | Control Flow (if/else, loops)    | ✅ Done |
-| ... | ...                              | ...     |
-| 100 | Final Project & Reflection       | ⬜ To Do |
+| Day | Topic/Challenge                       | Status  |
+|-----|---------------------------------------|---------|
+| 1   | Introduction & Basic Syntax           | ✅ Done |
+| 2   | Data Types & Variables                | ✅ Done |
+| 3   | Control Flow and Logical Operators    | ✅ Done |
+| ... | ...                                   | ...     |
+| 100 | Final Project & Reflection            | ⬜ To Do |
 
 ## Installation
 
