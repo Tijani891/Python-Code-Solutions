@@ -44,6 +44,7 @@ Here is a summary of the progress so far:
 | 1   | Introduction & Basic Syntax           | ✅ Done |
 | 2   | Data Types & Variables                | ✅ Done |
 | 3   | Control Flow and Logical Operators    | ✅ Done |
+| 4   | Randomisation and Python Lists        | ✅ Done |
 | ... | ...                                   | ...     |
 | 100 | Final Project & Reflection            | ⬜ To Do |
 
