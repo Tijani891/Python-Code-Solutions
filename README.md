@@ -5,7 +5,7 @@ Welcome to the **Python Coding** challenge! This repository contains the code an
 
 ## About
 
-The **100 Days of Python Coding** challenge is a self-imposed challenge where I committed to coding in Python every day for 100 days. The purpose of this challenge is to improve my problem-solving skills, learn new Python concepts, and apply them in various projects and exercises.
+The ** Python Coding** challenge is a self-imposed challenge where I committed to coding in Python. The purpose of this challenge is to improve my problem-solving skills, learn new Python concepts, and apply them in various projects and exercises.
 
 ## Goals
 
